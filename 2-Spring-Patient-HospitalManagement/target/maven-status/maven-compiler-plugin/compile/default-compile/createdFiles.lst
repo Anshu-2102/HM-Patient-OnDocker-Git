@@ -1,0 +1,8 @@
+com\cg\repository\PatientRepository.class
+com\cg\controller\PatientController.class
+com\cg\dto\PatientDTO.class
+com\cg\PatientServiceApplication.class
+com\cg\feign\AuthFeign.class
+com\cg\service\PatientService.class
+com\cg\service\IPatientService.class
+com\cg\entity\Patient.class

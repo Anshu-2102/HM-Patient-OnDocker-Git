@@ -1,0 +1,8 @@
+C:\HospitalManagement_project\2-Spring-Patient-HospitalManagement\src\main\java\com\cg\controller\PatientController.java
+C:\HospitalManagement_project\2-Spring-Patient-HospitalManagement\src\main\java\com\cg\dto\PatientDTO.java
+C:\HospitalManagement_project\2-Spring-Patient-HospitalManagement\src\main\java\com\cg\entity\Patient.java
+C:\HospitalManagement_project\2-Spring-Patient-HospitalManagement\src\main\java\com\cg\feign\AuthFeign.java
+C:\HospitalManagement_project\2-Spring-Patient-HospitalManagement\src\main\java\com\cg\PatientServiceApplication.java
+C:\HospitalManagement_project\2-Spring-Patient-HospitalManagement\src\main\java\com\cg\repository\PatientRepository.java
+C:\HospitalManagement_project\2-Spring-Patient-HospitalManagement\src\main\java\com\cg\service\IPatientService.java
+C:\HospitalManagement_project\2-Spring-Patient-HospitalManagement\src\main\java\com\cg\service\PatientService.java
