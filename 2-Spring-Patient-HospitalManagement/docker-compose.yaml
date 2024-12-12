@@ -17,7 +17,7 @@ services:
       - db  # This ensures that the product service starts after the DB container
 
   db:
-    image: postgress:13  # Use the official PostgreSQL 13 image
+    image: postgres:13  # Use the official PostgreSQL 13 image
     container_name: postgres-db
     environment:
       - POSTGRES_USER=postgres
